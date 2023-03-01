@@ -5,8 +5,11 @@ Made app whit changing states.
 
 If you are interest, you can download reporitory and open in your code edditor.
 
-Then run commands
+Then run commands `s`
 
+---
+
+##Preview
 
 ![img1](./img1.jpg)
 
