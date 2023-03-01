@@ -1,0 +1,17 @@
+<div class="servicesContainer">
+  <h1>Services</h1>
+  <div class="services__item" *ngFor="let services of services">
+    <button
+      [ngClass]="services.selected ? 'btn__active' : 'btn'"
+      (click)="handleSelection(services)"
+    >
+      <h2>{{ services.name }}</h2>
+      <h2>${{ displayPrice(services.price) }}</h2>
+    </button>
+  </div>
+  <hr class="services__divider" />
+  <div class="checkOutWrapper">
+    <h2>Total:</h2>
+    <h2>${{ displayPrice(priceToPay) }}</h2>
+  </div>
+</div>
