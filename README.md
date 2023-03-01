@@ -4,7 +4,8 @@ Testing how framework works.
 Made app whit changing states.
 
 If you are interest, you can download reporitory and open in your code edditor.
-then run 
+
+Then run commands
 
 
 ![img1](./img1.jpg)
