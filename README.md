@@ -3,6 +3,10 @@
 Testing how framework works.
 Made app whit changing states.
 
+If you are interest, you can download reporitory and open in your code edditor.
+then run 
+
+
 ![img1](./img1.jpg)
 
 ![img2](./img2.jpg)
