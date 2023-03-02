@@ -22,8 +22,9 @@ export class ServicesComponent {
   displayPrice = (number: number) => {
     return number.toFixed(2);
   };
+
   services = [
-    { name: 'Web Developmenr', price: 300.5, selected: false, },
+    { name: 'Web Development', price: 300.5, selected: false, },
     { name: 'Design', price: 400, selected: false },
     { name: 'Integration', price: 250.9, selected: false },
     { name: 'Training', price: 220.01, selected: false },
