@@ -1,15 +1,11 @@
 # 23-Angular-Services-App
 
-Testing how framework works.
-Made app whit changing states.
+Testing how the Angular framework works, I created an app that changes states using services.
 
-If you are interest, you can download reporitory and open in your code edditor.
+If you're interested, you can download the repository and open it in your code editor.
+Then, run the following commands: `cd .\services-app\`, `npm i`, and `ng serve --open`.
 
-Then run commands `s`
-
----
-
-##Preview
+## Preview
 
 ![img1](./img1.jpg)
 
